@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/salesdirect/static/css/main.6cf439ac.css",
-    "main.js": "/salesdirect/static/js/main.1e106688.js",
+    "main.css": "/salesdirect/static/css/main.d4305c5e.css",
+    "main.js": "/salesdirect/static/js/main.5fb7d855.js",
     "static/js/787.d98e2801.chunk.js": "/salesdirect/static/js/787.d98e2801.chunk.js",
     "static/media/logo.png": "/salesdirect/static/media/logo.76272ee37dc85c2aaee0.png",
     "static/media/DMSans-Regular.ttf": "/salesdirect/static/media/DMSans-Regular.4ee96395e07a04577aab.ttf",
     "static/media/DMSans-Bold.ttf": "/salesdirect/static/media/DMSans-Bold.c423ce2dc1d85bc50799.ttf",
     "index.html": "/salesdirect/index.html",
-    "main.6cf439ac.css.map": "/salesdirect/static/css/main.6cf439ac.css.map",
-    "main.1e106688.js.map": "/salesdirect/static/js/main.1e106688.js.map",
+    "main.d4305c5e.css.map": "/salesdirect/static/css/main.d4305c5e.css.map",
+    "main.5fb7d855.js.map": "/salesdirect/static/js/main.5fb7d855.js.map",
     "787.d98e2801.chunk.js.map": "/salesdirect/static/js/787.d98e2801.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cf439ac.css",
-    "static/js/main.1e106688.js"
+    "static/css/main.d4305c5e.css",
+    "static/js/main.5fb7d855.js"
   ]
 }
